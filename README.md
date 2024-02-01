@@ -1,4 +1,3 @@
-# ImgtoPDF-GUI
 Team name - Debugging Dynamos
 Team Members :
 Arindam Paul (Captain)
